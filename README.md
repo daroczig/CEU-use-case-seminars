@@ -8,3 +8,10 @@ We invite 1-2 experts each week to deliver a case study of a real data science p
 
 This is a Pass / Fail class. Students are required to attend all 3 weeks and actively participate in the Q&A and R exercises sessions.
 
+## Schedule
+
+### 2019-05-09 16:30 - 19:50 Szilard Pafka
+
+* Slides: http://bit.ly/szilard-talk-ceu19
+* Video recording: https://www.youtube.com/watch?v=HSr1CpZdOXU&t=310s
+
