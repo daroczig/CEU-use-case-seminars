@@ -23,3 +23,11 @@ This is a Pass / Fail class. Students are required to attend all 3 weeks and act
 
 ### 2019-05-16 19:10 - 20:00 Mate Toth
 
+### 2019-05-16 16:30 - 18:10 Windhager-Pokol Eszter
+
+* Slides: 
+* Dataset: http://bit.ly/CEU-R-usecase-2019-wpe-data
+* Code: [materials/20190605-wpe.R](https://github.com/daroczig/CEU-use-case-seminars/blob/master/materials/20190605-wpe.R)
+
+### 2019-05-16 18:20 - 20:00 Denes Toth
+
