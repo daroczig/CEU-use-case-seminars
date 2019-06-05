@@ -15,3 +15,11 @@ This is a Pass / Fail class. Students are required to attend all 3 weeks and act
 * Slides: http://bit.ly/szilard-talk-ceu19
 * Video recording: https://www.youtube.com/watch?v=HSr1CpZdOXU&t=310s
 
+### 2019-05-16 16:30 - 18:10 Alex Trickey
+
+* Talk resources (including slides): https://github.com/alextrickey/adz_demo
+
+### 2019-05-16 18:20 - 19:10 Julia Hermann
+
+### 2019-05-16 19:10 - 20:00 Mate Toth
+
