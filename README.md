@@ -10,25 +10,10 @@ This is a Pass / Fail class. Students are required to attend all 3 weeks and act
 
 ## Schedule
 
-### 2019-05-09 16:30 - 19:50 Szilard Pafka
+Feb 17 15:30-17:00 Kitti Balogh and Mate Toth (Blackrock)
+Feb 17 17:30-19:00 Szilard Pafka (Epoch)
+Feb 24 15:30-17:00 Salanki Agi (hotels.com)
+Feb 24 17:30-19:00 Alex Trickey (Secret Sause Partners)
+Mar 2 15:30-17:00 Windhager-Pokol Eszter (Starschema)
+Mar 2 17:30-19:00 Denes Toth (Kogentum)
 
-* Slides: http://bit.ly/szilard-talk-ceu19
-* Video recording: https://www.youtube.com/watch?v=HSr1CpZdOXU&t=310s
-
-### 2019-05-16 16:30 - 18:10 Alex Trickey
-
-* Talk resources (including slides): https://github.com/alextrickey/adz_demo
-
-### 2019-05-16 18:20 - 19:10 Julia Hermann
-
-### 2019-05-16 19:10 - 20:00 Mate Toth
-
-### 2019-05-16 16:30 - 18:10 Windhager-Pokol Eszter
-
-* Slides: [materials/20190605-wpe.pdf](https://github.com/daroczig/CEU-use-case-seminars/blob/master/materials/20190605-wpe.pdf)
-* Dataset: http://bit.ly/CEU-R-usecase-2019-wpe-data
-* Code: [materials/20190605-wpe.R](https://github.com/daroczig/CEU-use-case-seminars/blob/master/materials/20190605-wpe.R)
-
-### 2019-05-16 18:20 - 20:00 Denes Toth
-
-* Slides: [materials/20190605-denes.pdf](https://github.com/daroczig/CEU-use-case-seminars/blob/master/materials/20190605-denes.pdf)
