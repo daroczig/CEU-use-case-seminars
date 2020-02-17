@@ -10,10 +10,10 @@ This is a Pass / Fail class. Students are required to attend all 3 weeks and act
 
 ## Schedule
 
-Feb 17 15:30-17:00 Kitti Balogh and Mate Toth (Blackrock)
-Feb 17 17:30-19:00 Szilard Pafka (Epoch)
-Feb 24 15:30-17:00 Salanki Agi (hotels.com)
-Feb 24 17:30-19:00 Alex Trickey (Secret Sause Partners)
-Mar 2 15:30-17:00 Windhager-Pokol Eszter (Starschema)
-Mar 2 17:30-19:00 Denes Toth (Kogentum)
+* Feb 17 15:30-17:00 Kitti Balogh and Mate Toth (Blackrock)
+* Feb 17 17:30-19:00 Szilard Pafka (Epoch)
+* Feb 24 15:30-17:00 Salanki Agi (hotels.com)
+* Feb 24 17:30-19:00 Alex Trickey (Secret Sause Partners)
+* Mar 2 15:30-17:00 Windhager-Pokol Eszter (Starschema)
+* Mar 2 17:30-19:00 Denes Toth (Kogentum)
 
