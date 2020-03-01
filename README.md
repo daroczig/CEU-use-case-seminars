@@ -1,4 +1,4 @@
-This is the talk materials repository of the "[Use Case Seminars 2](https://courses.ceu.edu/courses/2018-2019/use-case-seminars-2)" course in the 2018/2019 Spring term, part of the [MSc in Business Analytics](https://courses.ceu.edu/programs/ms/master-science-business-analytics) at CEU.
+This is the talk materials repository of the "[Use Case Seminars 2](https://courses.ceu.edu/courses/2018-2019/use-case-seminars-2)" course in the 2019/2020 Winter term, part of the [MSc in Business Analytics](https://courses.ceu.edu/programs/ms/master-science-business-analytics) at CEU. For the previous edition, see [2018/2019 Spring](https://github.com/daroczig/CEU-use-case-seminars/tree/2019-spring).
 
 ## Course Description
 
