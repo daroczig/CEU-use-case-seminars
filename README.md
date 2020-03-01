@@ -13,7 +13,7 @@ This is a Pass / Fail class. Students are required to attend all 3 weeks and act
 * Feb 17 15:30-17:00 Kitti Balogh and Mate Toth (Blackrock)
 * Feb 17 17:30-19:00 Szilard Pafka (Epoch) [[slides](http://bit.ly/szilard-talk-random-ceu20)]
 * Feb 24 15:30-17:00 Agnes Urbanics-Salanki (hotels.com) [[slides](https://github.com/daroczig/CEU-use-case-seminars/blob/2020-winter/materials/20200224-Agnes_Urbanics_Salanki.pdf)]
-* Feb 24 17:30-19:00 Alex Trickey (Secret Sause Partners) [repo]
+* Feb 24 17:30-19:00 Alex Trickey (Secret Sause Partners) [[repo](https://github.com/alextrickey/adz_demo)]
 * Mar 2 15:30-17:00 Windhager-Pokol Eszter (Starschema)
 * Mar 2 17:30-19:00 Denes Toth (Kogentum)
 
