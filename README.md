@@ -1,4 +1,4 @@
-This is the talk materials repository of the "[Use Case Seminars 2](https://courses.ceu.edu/courses/2018-2019/use-case-seminars-2)" course in the 2019/2020 Winter term, part of the [MSc in Business Analytics](https://courses.ceu.edu/programs/ms/master-science-business-analytics) at CEU. For the previous edition, see [2018/2019 Spring](https://github.com/daroczig/CEU-use-case-seminars/tree/2019-spring).
+This is the talk materials repository of the "[Use Case Seminars 1.](https://courses.ceu.edu/courses/2020-2021/use-case-seminars-1)" course in the 2020/2021 Fall term, part of the [MSc in Business Analytics](https://courses.ceu.edu/programs/ms/master-science-business-analytics) at CEU. For the previous editions, see [2018/2019 Spring](https://github.com/daroczig/CEU-use-case-seminars/tree/2019-spring) and [2019/2020 Winter](https://github.com/daroczig/CEU-use-case-seminars/tree/2020-winter).
 
 ## Course Description
 
@@ -10,10 +10,9 @@ This is a Pass / Fail class. Students are required to attend all 3 weeks and act
 
 ## Schedule
 
-* Feb 17 15:30-17:00 Kitti Balogh and Mate Toth (Blackrock)
-* Feb 17 17:30-19:00 Szilard Pafka (Epoch) [[slides](http://bit.ly/szilard-talk-random-ceu20)]
-* Feb 24 15:30-17:00 Agnes Urbanics-Salanki (hotels.com) [[slides](https://github.com/daroczig/CEU-use-case-seminars/blob/2020-winter/materials/20200224-Agnes_Urbanics_Salanki.pdf)]
-* Feb 24 17:30-19:00 Alex Trickey (Secret Sause Partners) [[repo](https://github.com/alextrickey/adz_demo)]
-* Mar 2 15:30-17:00 Windhager-Pokol Eszter and Peter Gyongyosi (Starschema and Balabit/One Identity) [[slides](https://prezi.com/p/td54cybfjtfl/?present=1)]
-* Mar 2 17:30-19:00 Denes Toth (Kogentum) [[slides](https://github.com/daroczig/CEU-use-case-seminars/blob/2020-winter/materials/20200302-Denes_Toth.pdf)]
-
+* Nov 25 15:30-17:00 Kitti Balogh (Blackrock)
+* Nov 25 17:15-19:45 Levente Otti (Emarsys)
+* Dec 09 15:30-17:00 Windhager-Pokol Eszter and Peter Gyongyosi (Starschema and Balabit/One Identity)
+* Dec 09 17:15-19:45 Szilard Pafka (Epoch)
+* Dec 16 15:30-17:00 Denes Toth (Kogentum)
+* Dec 16 17:15-19:45 Alex Trickey (Secret Sause Partners)
