@@ -11,8 +11,8 @@ This is a Pass / Fail class. Students are required to attend all 3 weeks and act
 ## Schedule
 
 * Nov 25 15:30-17:00 Kitti Balogh (Blackrock)
-* Nov 25 17:15-19:45 Levente Otti (Emarsys)
+* Nov 25 17:15-18:45 Levente Otti (Emarsys)
 * Dec 09 15:30-17:00 Windhager-Pokol Eszter and Peter Gyongyosi (Starschema and Balabit/One Identity)
-* Dec 09 17:15-19:45 Szilard Pafka (Epoch)
+* Dec 09 17:15-18:45 Szilard Pafka (Epoch)
 * Dec 16 15:30-17:00 Denes Toth (Kogentum)
-* Dec 16 17:15-19:45 Alex Trickey (Secret Sause Partners)
+* Dec 16 17:15-18:45 Alex Trickey (Secret Sause Partners)
