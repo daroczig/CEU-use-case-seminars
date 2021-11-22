@@ -13,7 +13,7 @@ This is a Pass / Fail class. Students are required to attend all 3 weeks and act
 * Nov 24 (Wed) 15:45-17:15 Alex Trickey
 * Nov 24 (Wed) 17:45-18:30 Tal Galili
 * Nov 24 (Wed) 18:30-19:15 Neal Fultz
-* Dec 08 (Wed) 15:45-17:15 Kitti Balogh, Erika Frits
+* Dec 08 (Wed) 15:45-17:15 Kitti Balogh, Mate Toth
 * Dec 08 (Wed) 17:45-19:15 Szilard Pafka
 * Dec 13 (Mon) 15:45-16:30 Molnar Tamas
 * Dec 13 (Mon) 16:30-17:15 Otti Levente
