@@ -1,4 +1,4 @@
-This is the talk materials repository of the "[Use Case Seminars 1.](https://courses.ceu.edu/courses/2020-2021/use-case-seminars-1)" course in the 2020/2021 Fall term, part of the [MSc in Business Analytics](https://courses.ceu.edu/programs/ms/master-science-business-analytics) at CEU. For the previous editions, see [2018/2019 Spring](https://github.com/daroczig/CEU-use-case-seminars/tree/2019-spring) and [2019/2020 Winter](https://github.com/daroczig/CEU-use-case-seminars/tree/2020-winter).
+This is the talk materials repository of the "[Use Case Seminars 1.](https://courses.ceu.edu/courses/2020-2021/use-case-seminars-1)" course in the 2020/2021 Fall term, part of the [MSc in Business Analytics](https://courses.ceu.edu/programs/ms/master-science-business-analytics) at CEU. For the previous editions, see [2018/2019 Spring](https://github.com/daroczig/CEU-use-case-seminars/tree/2019-spring), [2019/2020 Winter](https://github.com/daroczig/CEU-use-case-seminars/tree/2020-winter) and [2020/2021 Fall](https://github.com/daroczig/CEU-use-case-seminars/tree/2021-fall).
 
 ## Course Description
 
@@ -10,9 +10,12 @@ This is a Pass / Fail class. Students are required to attend all 3 weeks and act
 
 ## Schedule
 
-* Nov 25 15:30-17:00 Kitti Balogh and Erika Frits (Blackrock)
-* Nov 25 17:15-18:45 Levente Otti (Emarsys)
-* Dec 09 15:30-17:00 Windhager-Pokol Eszter and Peter Gyongyosi (Starschema and Balabit/One Identity)
-* Dec 09 17:15-18:45 Szilard Pafka (Epoch)
-* Dec 16 15:30-17:00 Denes Toth (Kogentum)
-* Dec 16 17:15-18:45 Alex Trickey (Secret Sause Partners)
+* Nov 24 (Wed) 15:45-17:15 Alex Trickey
+* Nov 24 (Wed) 17:45-18:30 Tal Galili
+* Nov 24 (Wed) 18:30-19:15 Neal Fultz
+* Dec 08 (Wed) 15:45-17:15 Kitti Balogh, Erika Frits
+* Dec 08 (Wed) 17:45-19:15 Szilard Pafka
+* Dec 13 (Mon) 15:45-16:30 Molnar Tamas
+* Dec 13 (Mon) 16:30-17:15 Otti Levente
+* Dec 13 (Mon) 17:45-19:15 Windhager-Pokol Eszter, Peter Gyongyosi
+
