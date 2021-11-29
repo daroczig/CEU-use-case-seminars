@@ -11,8 +11,14 @@ This is a Pass / Fail class. Students are required to attend all 3 weeks and act
 ## Schedule
 
 * Nov 24 (Wed) 15:45-17:15 Alex Trickey
+
+    Slides and R code: https://github.com/alextrickey/ts_demo
+
 * Nov 24 (Wed) 17:45-18:30 Tal Galili
 * Nov 24 (Wed) 18:30-19:15 Neal Fultz
+
+    Slides: https://bit.ly/3I0LVwE
+
 * Dec 08 (Wed) 15:45-17:15 Kitti Balogh, Mate Toth
 * Dec 08 (Wed) 17:45-19:15 Szilard Pafka
 * Dec 13 (Mon) 15:45-16:30 Molnar Tamas
