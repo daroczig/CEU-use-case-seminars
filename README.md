@@ -12,9 +12,15 @@ This is a Pass / Fail class. Students are required to **attend all weeks** and *
 
 May 8, 15, 22, 31:
 
-* 13:30 - 15:00 session 1
-* 15:00 - 15:15 break
-* 15:15 - 16:15 session 2
+* 16:45 - 18:15 session 1 (90 mins)
+* 18:15 - 18:20 break
+* 18:20 - 19:20 session 2 (60 mins)
+
+OR
+
+* 16:45 - 17:45 session 1 (60 mins)
+* 17:45 - 17:50 break
+* 17:50 - 19:20 session 2 (90 mins)
 
 ## Invited Talks
 
