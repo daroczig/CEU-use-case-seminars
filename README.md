@@ -6,7 +6,7 @@ This class is a series of guest talks from industry experts followed by Q&A sess
 
 We invite 1-2 experts each week to deliver a case study of a real data science problem and solution, followed up by Q&A and then R exercises related to the discussed case studies.
 
-This is a Pass / Fail class. Students are required to attend all 3 weeks and actively participate in the Q&A and R exercises sessions.
+This is a Pass / Fail class. Students are required to **attend all weeks** and **actively participate** in the Q&A and R exercises sessions.
 
 ## Class Schedule
 
